@@ -1,5 +1,0 @@
-Installs a full Jenkins CI with Chef.
-This cookbook installs the Github and authorization plugins for Jenkins. Comment out if necessary.
-The example recipe has a few...example commands for plugins or jobs.
-Forked from Boundary cookbooks repo: https://github.com/boundary/boundary_cookbooks
-
