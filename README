@@ -1,0 +1,3 @@
+Installs a full Jenkins CI with Chef.
+Forked from Boundary cookbooks repo: https://github.com/boundary/boundary_cookbooks
+
